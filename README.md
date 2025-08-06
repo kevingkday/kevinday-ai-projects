@@ -8,7 +8,7 @@ I design and code these systems myself using .NET, OpenAI, Pinecone, and related
 
 ## ⚙️ Active Projects
 
-### 🧾 TwinCover
+### 🧾 TwinCover / [TwinCover.com](https://www.twincover.com)
 **AI-powered quote assistant** for insurance brokers.
 - Parses client data and documents
 - Suggests missing info and generates follow-up questions
@@ -16,7 +16,7 @@ I design and code these systems myself using .NET, OpenAI, Pinecone, and related
 
 ---
 
-### 📰 FeedMeBiz
+### 📰 FeedMeBiz / [FeedMeBiz.com](https://www.feedmebiz.com)
 **Automated lead generation** from news articles.
 - Uses AI to scan, summarize, extract contacts, and send emails
 - Continuously refines search and tone based on replies
@@ -24,7 +24,7 @@ I design and code these systems myself using .NET, OpenAI, Pinecone, and related
 
 ---
 
-### 🧠 Captive8 / [CanadianCaptive.com](https://canadiancaptive.com)
+### 🧠 Captive8 / [CanadianCaptive.com](https://www.canadiancaptive.com)
 **AI interface for captive insurance feasibility**
 - Chat-based exploration of domicile rules and captive setup paths
 - Integrates structured captive data with natural language queries
@@ -32,7 +32,7 @@ I design and code these systems myself using .NET, OpenAI, Pinecone, and related
 
 ---
 
-### 🕰️ ChronoSpeak
+### 🕰️ ChronoSpeak / [ChronoSpeak.com](https://www.chronospeak.com)
 **Conversational platform for historical AI personas**
 - Used in classrooms to engage students with historical figures
 - Supports group mode and customized lesson knowledge
@@ -40,7 +40,7 @@ I design and code these systems myself using .NET, OpenAI, Pinecone, and related
 
 ---
 
-### 🧬 Twwinz
+### 🧬 Twwinz / [Twwinz.com](https://www.twwinz.com)
 **Digital self-reflection agent**
 - Users chat with an evolving version of themselves
 - Memory-based logic layered over OpenAI APIs
